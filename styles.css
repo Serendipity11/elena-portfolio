@@ -10,16 +10,24 @@ h3 {
 
 html,
 .hero {
-  background-color: #0f0f0f;
+  /* background-color: #18191d; */
+  background-color: black;
 }
 
 /* hero main page */
-h1 {
+.hero h1 {
+  margin-top: 30px !important;
   font-size: 100px !important;
+  color: #fefefe;
+}
+.hero {
+  background-image: url(hero2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p span {
   font-family: monospace;
   display: table;
-  color: whitesmoke;
+  color: #8d8d8f;
 }
