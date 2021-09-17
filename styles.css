@@ -1,0 +1,25 @@
+h1,
+h2,
+h3 {
+  font-family: "Acumin Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Acumin Pro"), url("Acumin-RPro.woff") format("woff");
+  color: whitesmoke;
+}
+
+html,
+.hero {
+  background-color: #0f0f0f;
+}
+
+/* hero main page */
+h1 {
+  font-size: 100px !important;
+}
+
+p span {
+  font-family: monospace;
+  display: table;
+  color: whitesmoke;
+}
