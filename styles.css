@@ -24,10 +24,20 @@ html,
   background-image: url(hero2.png);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 85vh;
 }
 
 p span {
   font-family: monospace;
   display: table;
   color: #8d8d8f;
+}
+.hero h2 {
+  margin-top: 200px !important;
+}
+
+/* portfolio section*/
+
+.portfolio-section {
+  background-color: black;
 }
