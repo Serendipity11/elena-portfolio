@@ -79,3 +79,13 @@ p span {
 /* .portfolio-section {
   background-color: black;
 } */
+
+@media (max-width: 375px) {
+  p span {
+    font-family: monospace;
+    display: table;
+    color: #535353;
+    opacity: 20%;
+    font-size: 10px;
+  }
+}
