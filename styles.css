@@ -80,7 +80,7 @@ p span {
   background-color: black;
 } */
 
-@media (max-width: 370px) {
+@media (max-width: 500px) {
   p span {
     font-family: monospace;
     display: table;
