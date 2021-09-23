@@ -14,7 +14,7 @@ html,
   background-color: #fff;
 }
 
-/* hero main page */
+/* navbar */
 
 .hero .heading {
   margin-top: 15px !important;
@@ -25,12 +25,30 @@ html,
   align-content: center !important;
 }
 
-/* #navbarDropdownMenuLink {
-  margin: 0 auto !important;
-  text-align: center !important;
-  justify-content: center !important;
-} */
+.hero .header {
+  font-size: 30px !important;
+  color: #535353 !important;
+  opacity: 90%;
+  font-family: "Acumin Pro" !important;
+  letter-spacing: 1px;
+}
+.dropdown-menu {
+  font-size: 15px !important;
+  color: #535353 !important;
+  opacity: 90%;
+  font-family: "Acumin Pro" !important;
+  letter-spacing: 1px;
+  border: none !important;
+}
+.dropdown-menu .dropdown-item {
+  background-color: transparent !important;
+}
+.dropdown-menu .dropdown-item:hover {
+  color: #535353 !important;
+  opacity: 70%;
+}
 
+/* hero main page */
 .hero {
   /* background-image: url(hero2.png); */
   background-repeat: no-repeat;
