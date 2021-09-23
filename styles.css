@@ -15,10 +15,10 @@ html,
 }
 
 /* hero main page */
-.hero h1 {
+.hero .heading {
   margin-top: 15px !important;
   font-size: 30px !important;
-  color: #535353;
+  color: #535353 !important;
   opacity: 90%;
 }
 .hero {
