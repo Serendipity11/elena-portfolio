@@ -54,20 +54,27 @@ html,
 }
 
 /* hero main page */
-/* .hero {
-  background-image: url(images/IMG_9998.jpg);
+.hero {
+  background-image: url(images/IMG_0004.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 50vh;
-} */
+  height: 80vh;
+}
 
 p span {
   font-family: monospace;
   display: table;
+  color: white;
+  opacity: 20%;
+  font-size: 18px;
+}
+
+.portfolio-section p {
   color: #535353;
   opacity: 20%;
   font-size: 20px;
+  font-family: monospace;
 }
 
 .hero h2 {
@@ -86,6 +93,6 @@ p span {
     display: table;
     color: #535353;
     opacity: 20%;
-    font-size: 10px;
+    font-size: 14px;
   }
 }
