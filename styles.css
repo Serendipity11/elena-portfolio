@@ -61,6 +61,7 @@ html,
 /* hero main page */
 .hero {
   background-image: url(images/IMG_0004.jpg);
+  /* background-image: url(images/IMG_9224.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
