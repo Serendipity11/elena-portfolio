@@ -59,23 +59,23 @@ html,
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 80vh;
+  height: 90vh;
 }
 
 p span {
   font-family: monospace;
   display: table;
   color: white;
-  opacity: 20%;
+  opacity: 8%;
   font-size: 18px;
 }
 
-.portfolio-section p {
+/* .portfolio-section p {
   color: #535353;
-  opacity: 20%;
+  opacity: 5%;
   font-size: 20px;
   font-family: monospace;
-}
+} */
 
 .hero h2 {
   margin-top: 200px !important;
