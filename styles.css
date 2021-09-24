@@ -31,20 +31,25 @@ html,
   font-size: 20px !important;
   color: #535353 !important;
   opacity: 90%;
-  font-family: "Acumin Pro" !important;
+  /* font-family: "Acumin Pro" !important; */
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
   letter-spacing: 2px;
 }
 .dropdown-menu {
   font-size: 15px !important;
   color: #535353 !important;
   opacity: 90%;
-  font-family: "Acumin Pro" !important;
+  /* font-family: "Acumin Pro" !important; */
+  font-family: "Open Sans", sans-serif !important;
   letter-spacing: 1px;
   border: none !important;
   background-color: transparent !important;
 }
 .dropdown-menu .dropdown-item {
   background-color: transparent !important;
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
   color: #535353 !important;
   opacity: 90%;
 }
