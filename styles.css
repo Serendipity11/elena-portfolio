@@ -114,6 +114,22 @@ p span {
   align-content: center !important;
 }
 
+.contact p {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: lighter;
+  color: #535353 !important;
+  opacity: 90%;
+  font-size: 12px;
+}
+.contact .email {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: lighter;
+  color: #535353 !important;
+  opacity: 90%;
+  font-size: 12px;
+  text-decoration: none;
+}
+
 @media (max-width: 500px) {
   p span {
     font-family: monospace;
