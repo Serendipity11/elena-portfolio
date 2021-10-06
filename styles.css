@@ -92,6 +92,28 @@ p span {
   background-color: black;
 } */
 
+/* contact page */
+.contact {
+  font-family: "Open Sans", sans-serif;
+}
+
+.contact .header {
+  font-size: 16px !important;
+  color: #535353 !important;
+  opacity: 90%;
+  /* font-family: "Acumin Pro" !important; */
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+.contact .heading {
+  margin-top: 10px !important;
+  color: #535353 !important;
+  opacity: 90%;
+  margin: 0 auto !important;
+  align-content: center !important;
+}
+
 @media (max-width: 500px) {
   p span {
     font-family: monospace;
