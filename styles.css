@@ -79,6 +79,16 @@ p span {
 
 /* portfolio section */
 .first-carousel img {
+  width: 70% !important;
+}
+.second-carousel img {
+  width: 70% !important;
+}
+.third-carousel img {
+  width: 70% !important;
+}
+.forth-carousel img {
+  width: 70% !important;
 }
 
 /* .portfolio-section {
