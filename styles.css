@@ -78,18 +78,6 @@ p span {
 }
 
 /* portfolio section */
-.first-carousel img {
-  width: 70% !important;
-}
-.second-carousel img {
-  width: 70% !important;
-}
-.third-carousel img {
-  width: 70% !important;
-}
-.forth-carousel img {
-  width: 70% !important;
-}
 
 /* .portfolio-section {
   background-color: black;
@@ -131,6 +119,21 @@ p span {
   opacity: 90%;
   font-size: 12px;
   text-decoration: none;
+}
+
+@media (max-width: 2400px) {
+  #carousel1 img {
+    width: 70% !important;
+  }
+  #carousel2 img {
+    width: 70% !important;
+  }
+  #carousel3 img {
+    width: 70% !important;
+  }
+  #carousel4 img {
+    width: 70% !important;
+  }
 }
 
 @media (max-width: 500px) {
